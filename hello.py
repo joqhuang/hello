@@ -5,6 +5,7 @@ print("Neil again!")
 print("I was born in March")
 =======
 print("Hello, it's jon  ＼(￣▽￣)/")
+print("I was born in October, Scorpio season...")
 print("Hello, it's Neil here! :)")
 print("I was born in February.")
 >>>>>>> refs/remotes/origin/master
